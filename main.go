@@ -9,7 +9,7 @@ func main() {
 
 	paym := []types.Payment{
 		{
-			ID:       1,
+			ID:       2,
 			Amount:   20,
 			Category: "wallet",
 		},
